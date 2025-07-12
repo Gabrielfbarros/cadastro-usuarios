@@ -4,7 +4,7 @@ Este é um projeto completo de cadastro de usuários, utilizando:
 
 - **Frontend**: React + Vite
 - **Backend**: Node.js, Express
-- **Banco de Dados**: SQLite com Prisma ORM
+- **Banco de Dados**: MongoDB
 
 ---
 
