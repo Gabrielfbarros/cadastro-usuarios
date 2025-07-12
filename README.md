@@ -49,7 +49,7 @@ cadastro-usuarios/
 ![Banco de Dados](./assets/prisma-studio.PNG)
 
 ### Capa do Projeto
-![Capa](./assets/capa.png)
+![Capa](./assets/capa.PNG)
 
 
 
